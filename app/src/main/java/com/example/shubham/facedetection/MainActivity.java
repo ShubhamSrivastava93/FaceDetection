@@ -1,7 +1,4 @@
 
-/*
- * Created by Shubham Srivastava (shubhamvns115@gmail.com)
- */
 
 package com.example.shubham.facedetection;
 
